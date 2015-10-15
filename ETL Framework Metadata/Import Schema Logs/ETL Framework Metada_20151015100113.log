@@ -1,0 +1,77 @@
+15/10/2015 23:01:13	This log contains information about the import schema operation into project 'ETL Framework Metadata' on computer 'ADKIN2' by user 'adkin'.
+15/10/2015 23:01:13	Import of database schema has started.
+15/10/2015 23:01:26	Gathering database options
+15/10/2015 23:01:26	Gathering users
+15/10/2015 23:01:26	Gathering roles
+15/10/2015 23:01:26	Gathering application roles
+15/10/2015 23:01:26	Gathering role memberships
+15/10/2015 23:01:26	Gathering filegroups
+15/10/2015 23:01:26	Gathering full-text catalogs
+15/10/2015 23:01:26	Gathering assemblies
+15/10/2015 23:01:26	Gathering certificates
+15/10/2015 23:01:26	Gathering asymmetric keys
+15/10/2015 23:01:26	Gathering symmetric keys
+15/10/2015 23:01:26	Gathering encrypted symmetric keys
+15/10/2015 23:01:26	Gathering schemas
+15/10/2015 23:01:26	Gathering XML schema collections
+15/10/2015 23:01:26	Gathering user-defined data types
+15/10/2015 23:01:26	Gathering user-defined types
+15/10/2015 23:01:26	Gathering table types
+15/10/2015 23:01:26	Gathering unique keys for table types
+15/10/2015 23:01:26	Gathering primary keys for table types
+15/10/2015 23:01:26	Gathering check constraints for table types
+15/10/2015 23:01:26	Gathering default constraints for table types
+15/10/2015 23:01:26	Gathering partition functions
+15/10/2015 23:01:26	Gathering partition schemes
+15/10/2015 23:01:26	Gathering functions
+15/10/2015 23:01:26	Gathering encrypted functions
+15/10/2015 23:01:27	Gathering aggregates
+15/10/2015 23:01:27	Gathering procedures
+15/10/2015 23:01:28	Gathering encrypted procedures
+15/10/2015 23:01:28	Gathering tables
+15/10/2015 23:01:28	Gathering primary keys
+15/10/2015 23:01:28	Gathering unique constraints
+15/10/2015 23:01:28	Gathering foreign keys
+15/10/2015 23:01:28	Gathering default constraints
+15/10/2015 23:01:28	Gathering check constraints
+15/10/2015 23:01:28	Gathering views
+15/10/2015 23:01:28	Gathering encrypted views
+15/10/2015 23:01:28	Gathering indexes
+15/10/2015 23:01:28	Gathering statistics
+15/10/2015 23:01:28	Gathering full-text index stoplists
+15/10/2015 23:01:28	Gathering search property lists
+15/10/2015 23:01:28	Gathering search properties
+15/10/2015 23:01:28	Gathering full-text indexes
+15/10/2015 23:01:28	Gathering column store indexes
+15/10/2015 23:01:28	Gathering spatial indexes
+15/10/2015 23:01:28	Gathering XML indexes
+15/10/2015 23:01:28	Gathering Selective XML indexes
+15/10/2015 23:01:28	Gathering encrypted triggers
+15/10/2015 23:01:28	Gathering triggers
+15/10/2015 23:01:28	Gathering encrypted and clr ddl triggers
+15/10/2015 23:01:28	Gathering ddl triggers
+15/10/2015 23:01:28	Gathering synonyms
+15/10/2015 23:01:28	Gathering defaults
+15/10/2015 23:01:28	Gathering data constraint uddt bindings
+15/10/2015 23:01:28	Gathering rules
+15/10/2015 23:01:28	Gathering data constraint uddt bindings
+15/10/2015 23:01:28	Gathering message types
+15/10/2015 23:01:28	Gathering queues
+15/10/2015 23:01:28	Gathering contracts
+15/10/2015 23:01:28	Gathering services
+15/10/2015 23:01:28	Gathering event notifications
+15/10/2015 23:01:28	Gathering remote service bindings
+15/10/2015 23:01:28	Gathering broker priorities
+15/10/2015 23:01:28	Gathering signatures
+15/10/2015 23:01:28	Gathering data compression options
+15/10/2015 23:01:28	Gathering sequence types
+15/10/2015 23:01:28	Gathering database permissions
+15/10/2015 23:01:28	Gathering extended properties
+15/10/2015 23:01:28	Gathering credentials
+15/10/2015 23:01:28	Gathering logins
+15/10/2015 23:01:28	Gathering server audits
+15/10/2015 23:01:29	Scanning project for duplicate elements
+15/10/2015 23:01:29	Finished duplicate element processing
+15/10/2015 23:01:30	Finished importing database.
+15/10/2015 23:01:30	A summary of the import was saved to the following location: c:\users\adkin\documents\visual studio 2012\Projects\ETL Framework Metadata\ETL Framework Metadata\Import Schema Logs\ETL Framework Metada_20151015100113.log
+15/10/2015 23:01:30	Click Finish to continue...
